@@ -1,4 +1,4 @@
-# SWG_game_usingC/n
+# SWG_game_usingC
 Author- Avadhut Chavan
 # 🐍 Snake-Water-Gun Game in C
 
